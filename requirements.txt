@@ -1,0 +1,7 @@
+torch
+torchvision
+pygame
+gymnasium
+flappy-bird-gymnasium
+PyYAML
+numpy
