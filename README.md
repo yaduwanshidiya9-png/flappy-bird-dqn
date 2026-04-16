@@ -8,7 +8,7 @@ An autonomous AI agent trained to master Flappy Bird using **Deep Q-Networks (DQ
 
 ---
 
-## 🚀 Key Features
+## Key Features
 - **Deep Q-Network (DQN):** Neural Network architecture built with PyTorch to predict optimal actions.
 - **Experience Replay:** Uses a memory buffer to store past experiences, ensuring stable training.
 - **Reward Shaping:** Custom rewards for survival and successfully passing through pipes.
@@ -16,7 +16,7 @@ An autonomous AI agent trained to master Flappy Bird using **Deep Q-Networks (DQ
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python
 - **Deep Learning:** PyTorch
 - **Environment:** Gymnasium & Flappy Bird Gymnasium

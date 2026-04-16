@@ -3,5 +3,5 @@ torchvision
 pygame
 gymnasium
 flappy-bird-gymnasium
-PyYAML
+Pyyaml
 numpy
